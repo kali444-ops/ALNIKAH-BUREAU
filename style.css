@@ -313,4 +313,7 @@ color:goldenrod;
 display: flex;
 height: 50px;
 }
+.top-logo{
+padding: 10px;
+}
 }
